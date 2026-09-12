@@ -15,7 +15,7 @@ This project analyzes an agricultural dataset to investigate how farming perform
 ## Key Insights
 * **Water Usage Drives Costs:** There is a strong positive correlation (0.58) between water used and total cost, making it one of the most significant farming expenses.
 * **Yield Equals Profit, but with Costs:** Yield has a positive correlation (0.49) with profit, but achieving higher yields requires more water, which drives up total costs
-* **Environmental Factors & Fertilizer Disconnect:** Rainfall, temperature, and fertilizer usage show almost zero correlation with crop yield, suggesting that simply adding more fertilizer does not guarantee better performance in this dataset.
+  **Environmental Factors & Fertilizer Disconnect:** Rainfall, temperature, and fertilizer usage show almost zero correlation with crop yield, suggesting that simply adding more fertilizer does not guarantee better performance in this dataset.
 
 ## Recommendations
 * **Optimize Water Efficiency:** Farmers should invest in efficient irrigation methods (like drip irrigation), especially during the drier Zaid and Rabi seasons, to maximize profit margins.
