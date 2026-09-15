@@ -19,5 +19,5 @@ This project analyzes an agricultural dataset to investigate how farming perform
 
 ## Recommendations
 * **Optimize Water Efficiency:** Farmers should invest in efficient irrigation methods (like drip irrigation), especially during the drier Zaid and Rabi seasons, to maximize profit margins.
-* **Investigate Fertilizer Application:** Since fertilizer usage shows zero correlation with yield, soil testing is recommended to ensure the correct type and amount of fertilizer isused.
+* **Investigate Fertilizer Application:** Since fertilizer usage shows zero correlation with yield, soil testing is recommended to ensure the correct type and amount of fertilizer is used.
 * **Investigate Outliers:** Extreme outliers in water and fertilizer usage suggest the need to identify wasteful practices or specific crop anomalies.
