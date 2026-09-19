@@ -1,4 +1,4 @@
-#SeasonalAgriculture Performance Analysis
+#Seasonal Agriculture Performance Analysis
 ##Overview 
 This project analyzes an agricultural dataset to investigate how farming performance, resource usage, and economic outcomes vary across different seasons (Kharif, Rabi, and Zaid). The goal is to identify meaningful patterns and provide data-driven recommendations for seasonal agricultural planning.
 
