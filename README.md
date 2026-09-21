@@ -9,7 +9,7 @@ This project analyzes an agricultural dataset to investigate how farming perform
 
 ## Project Workflow
 1. **Data Cleaning:** Handled missing values using median/mode imputation and removed duplicate records to ensure data integrity.
-2. **Exploratory Data Analysis (EDA):** Visualized crop distribution, yield, profit, and resource usage across seasons using boxplots and bar charts.
+2. l**Exploratory Data Analysis (EDA):** Visualized crop distribution, yield, profit, and resource usage across seasons using boxplots and bar charts.
 3. **Correlation Analysis:** Generated a correlation heatmap to uncover relationships between environmental conditions, resource inputs, and financial outcomes.
 
 ## Key Insights
